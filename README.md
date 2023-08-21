@@ -22,7 +22,7 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 
 
 ## Ferramentas e Tecnologias
-<img width="300px" align="right" src="pixton">
+<img width="300px" align="right" src="[pixton](https://github.com/silvajuliano17/silvajuliano17/blob/main/pixton-avatar-full-body-juliano.png?raw=true)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 ## Estou aprendendo
