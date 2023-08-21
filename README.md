@@ -1,8 +1,8 @@
 
 <div display="inline-block">
  
- <h1 align="left">Juliano Silvat</h1>
- <h1 align="left">## Bem vindo ao meu perfil GitHub 👋</h1>
+ <h1 align="left">Juliano Silva</h1>
+ <h1 align="left">Bem vindo ao meu perfil GitHub 👋</h1>
  <a href="https://www.instagram.com/jeniblo_dev/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -14,10 +14,15 @@
   </a>
 </div>
 
+</br>
+</br>
+
+Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento computacional e robotica! Sou aventureiro no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 
 
 ## Ferramentas e Tecnologias
+<img width="300px" align="right" src="pixton">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 ## Estou aprendendo
