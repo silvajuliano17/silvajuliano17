@@ -22,7 +22,6 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img src="https://github.com/silvajuliano17/silvajuliano17/blob/main/pixton-avatar-full-body-juliano.png?raw=true" width="300px">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -38,6 +37,7 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
  <p align="left">🤿 Sou professor no CE São Jose;</p>
  <p align="left">📚 Tenho estudado Java, Python e iniciei meus estudos para desenvolver apps para Android;</p>
  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <img src="https://github.com/silvajuliano17/silvajuliano17/blob/main/pixton-avatar-full-body-juliano.png?raw=true" width="300px">
 </div>
 
 
