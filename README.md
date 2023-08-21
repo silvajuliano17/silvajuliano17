@@ -1,5 +1,21 @@
-# Olá, me chamo Juliano ! 
-## Bem vindo ao meu perfil GitHub 👋
+
+<div display="inline-block">
+ 
+ <h1 align="left">Juliano Silvat</h1>
+ <h1 align="left">## Bem vindo ao meu perfil GitHub 👋</h1>
+ <a href="https://www.instagram.com/jeniblo_dev/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/jeniblo_dev">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
+
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
