@@ -44,7 +44,7 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/silvajuliano17) ou pelo [Twitter](https://twitter.com/silvajuliano17) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/julianosilva_17) ou pelo [Twitter](https://twitter.com/juliano_170419) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
