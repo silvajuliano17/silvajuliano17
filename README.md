@@ -3,7 +3,7 @@
  
  <h1 align="left">Juliano Silva</h1>
  <h1 align="left">Bem vindo ao meu perfil GitHub 👋</h1>
- <a href="https://www.instagram.com//">
+ <a href="https://www.instagram.com/julianosilva_95/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/">
@@ -44,7 +44,7 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/julianosilva_17) ou pelo [Twitter](https://twitter.com/juliano_170419) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/julianosilva_95) ou pelo [Twitter](https://twitter.com/juliano_170419) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
