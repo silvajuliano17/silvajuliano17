@@ -66,5 +66,5 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajuliano17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+ ![Snake animation](https://github.com/silvajuliano17/silvajuliano17/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/silvajuliano17/silvajuliano17/blob/output/github-contribution-grid-snake.svg)
