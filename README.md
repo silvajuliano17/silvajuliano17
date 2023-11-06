@@ -17,7 +17,7 @@
 </br>
 </br>
 
-Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento computacional e robotica! Sou aventureiro no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
+Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento computacional e robotica! Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 
 
@@ -66,5 +66,4 @@ Tenho 28 anos, moro em São José das Palmeiras/pr e sou professor de pensamento
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajuliano17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- ![Snake animation](https://github.com/silvajuliano17/silvajuliano17/blob/output/github-contribution-grid-snake.svg)
 
